@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
@@ -46,7 +40,8 @@ input[type="submit"],ul.address li ul.address-text li a,.agile_about_blog_right_
     position: relative;
 }
 .w3ls_logo_nav_left h1 a{
-	font-size:1.5em;
+	font-family:droid sans mono,monospace;
+	font-size:1.2em;
 	color:#fff;
 	text-decoration:none;
 }
@@ -169,7 +164,7 @@ h2.resp-accordion {
     left:-22%;
     width: 60%;
     padding: 1.5em;
-    background: #23D6E7;
+    background: #192a56;
 }
 .wthree_tab_content_pos_grid{
 	padding: 1.5em;
@@ -177,8 +172,8 @@ h2.resp-accordion {
 }
 .wthree_tab_content_pos_grid h2 {
     font-size: 1.2em;
-    color: #000;
-    background: #FFEB00;
+    color: #f5f6fa;
+    background: #40739e;
     display: inline-block;
     padding: .5em 1.5em;
     position: relative;
@@ -192,16 +187,16 @@ h2.resp-accordion {
     left: 12px;
     border-style: solid;
     border-width:13px 40px 0 0px;
-    border-color: #FFEB00 transparent transparent transparent;
+    border-color: #40739e transparent transparent transparent;
 }
 .wthree_tab_content_pos_grid h3 {
     font-size:2em;
-    color: #212121;
+    color: #dcdde1;
     margin: 0.5em 0 0;
 }
 .wthree_tab_content_pos_grid h6 {
     font-size: 1em;
-    color: #424242;
+    color: #dcdde1;
     margin-top: 0.8em;
 }
 ul.address {
@@ -239,7 +234,7 @@ ul.address li ul.address-text li a:hover{
 }
 .agileits_copyright p a{
 	text-decoration:none;
-	color:#FFEB00;
+	color:#d8a3ff;
 }
 .agileits_copyright p a:hover{
 	color:#fff;
@@ -247,7 +242,7 @@ ul.address li ul.address-text li a:hover{
 /*-- about --*/
 .agile_about,.agileits_agile_about{
 	padding:2em;
-	background:#fff;
+	background:#f5f6fa;
 	width: 75%;
 }
 .agile_about{
@@ -276,7 +271,7 @@ ul.address li ul.address-text li a:hover{
     position: absolute;
     bottom: 0;
     left: 40%;
-    border-bottom: 4px double #23D6E7;
+    border-bottom: 4px double #00a8ff;
     width: 20%;
 }
 .agileits_agile_about h2 {
@@ -296,7 +291,7 @@ ul.address li ul.address-text li a:hover{
 }
 
 .agileits_agile_about_left p{
-	color:#999;
+	color:#718093;
 	line-height:2em;
 }
 .agileits_agile_about_right h4 {
@@ -346,7 +341,7 @@ ul.address li ul.address-text li a:hover{
 .skill1,.skill3,.skill4,.skill5 {
 	height: 100%;
 	display: block;
-	background-color:#F1DE00;
+	background-color:#fbc531;
 }
 .agileits_skills_grids{
 	margin:1em 0 0;
@@ -361,7 +356,7 @@ ul.address li ul.address-text li a:hover{
 	right:5%;
 	width:100px;
 	height:100px;
-	background:#23D6E7;
+	background:#40739e;
 }
 .agile_about_blog_left_grid_pos ul li{
 	display: block;
@@ -387,7 +382,7 @@ ul.address li ul.address-text li a:hover{
     width: 25px;
     height: 25px;
     border-radius: 25px;
-    background:#23D6E7;
+    background:#40739e;
     color: #fff;
     opacity: 1;
 	outline:none;
@@ -395,7 +390,7 @@ ul.address li ul.address-text li a:hover{
 .modal-body p {
     margin: 2em 1em 1em;
     line-height: 2em;
-    color: #999;
+    color: #718093;
 }
 .modal-body p i{
 	color:#212121;
@@ -424,17 +419,17 @@ ul.address li ul.address-text li a:hover{
 }
 .agile_about_blog_right_grid_list ul li span{
 	padding-right:1em;
-	color:#23D6E7;
+	color:#40739e;
 }
 .agile_about_blog_right_grid_list ul li a{
-	color:#999;
+	color:#718093;
 	text-decoration:none;
 }
 .agile_about_blog_right_grid_list ul li a:hover{
 	color:#23D6E7;
 }
 .agile_about_blog_right_grid p{
-	color:#999;
+	color:#718093;
 	line-height:2em;
 }
 .agile_model {
@@ -512,7 +507,7 @@ ul.address li ul.address-text li a:hover{
 }
 .agileits_agile_about_mail input[type="submit"]{
 	outline: none;
-    background:#23D6E7;
+    background:#40739e;
     border:none;
     padding: 10px 0;
     font-size: 14px;
