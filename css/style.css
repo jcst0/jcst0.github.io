@@ -41,7 +41,7 @@ input[type="submit"],ul.address li ul.address-text li a,.agile_about_blog_right_
 }
 .w3ls_logo_nav_left h1 a{
 	font-family:droid sans mono,monospace;
-	font-size:1.2em;
+	font-size:1em;
 	color:#fff;
 	text-decoration:none;
 }
@@ -603,7 +603,7 @@ ul.address li ul.address-text li a:hover{
 		width: 80%;
 	}
 	.w3ls_logo_nav_left h1 a {
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 	.wthree_tab_content_pos_grid h3 {
 		font-size: 1.8em;
@@ -642,7 +642,7 @@ ul.address li ul.address-text li a:hover{
 }
 @media (max-width: 991px){
 	.w3ls_logo_nav_left h1 a {
-		font-size: 1.2em;
+		font-size: 0.7em;
 	}
 	.resp-tab-item {
 		width: 19%;
@@ -719,7 +719,7 @@ ul.address li ul.address-text li a:hover{
 }
 @media (max-width: 736px){
 	.w3ls_logo_nav_left h1 a {
-		font-size: 1.1em;
+		font-size: 0.5em;
 	}
 	.resp-tab-item {
 		width: 19%;
@@ -763,7 +763,7 @@ ul.address li ul.address-text li a:hover{
 }
 @media (max-width: 640px){
 	.w3ls_logo_nav_left h1 a {
-		font-size: 1em;
+		font-size: 0.5em;
 	}
 	.resp-tab-item {
 		font-size: 13px;
@@ -830,7 +830,7 @@ ul.address li ul.address-text li a:hover{
 }
 @media (max-width: 568px){
 	.w3ls_logo_nav_left {
-		text-align: center;
+		text-align: 0.4;
 	}
 	.resp-tabs-list {
 		width: 100%;
@@ -1063,6 +1063,6 @@ ul.address li ul.address-text li a:hover{
 		padding: 1em;
 	}
 	.w3ls_logo_nav_left h1 a {
-		font-size: .9em;
+		font-size: .4em;
 	}
 }
